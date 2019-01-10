@@ -1,9 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Wishing you Happiest days of your life. :** Love u so much my gem.
 ---
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I love you RaOoOoL
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
